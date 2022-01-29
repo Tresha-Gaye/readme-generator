@@ -23,8 +23,13 @@ const questions = [
   },
   {
     type: 'input',
+    name: 'profile',
+    message: 'What is the link to your Github profile?'
+  },
+  {
+    type: 'input',
     name: 'email',
-    message: 'What is your email address?'
+    message: 'What is the email address associated with your Github profile?'
   },
   {
     type: 'input',
