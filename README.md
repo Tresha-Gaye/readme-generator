@@ -24,12 +24,10 @@ The application was created by Node JS and the `Inquirer package`, JavaScript an
 This image shows how the terminal looks **when the app is run**, showing user-generated input  
 <br>
 ![README Generator](./assets/images/console-log.jpg)  
-<br>
 
 This image shows the **generated README.md**  
 <br>
 ![README Generator](./assets/images/raw-readme.jpg)
-
 
 This image shows the **preview of the README file**  
 <br>
