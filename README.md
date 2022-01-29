@@ -4,7 +4,7 @@
 
 This command-line application dyniamically generates a progfessional README.md file from a user's input using the `Inquirer package`. 
 
-You may view the the walkthru video that demonstrates the application's functionality by [clicking this link](https://watch.screencastify.com/v/WjopY5MkethUYv8shgpI).
+You may view the the walkthru video that demonstrates the application's functionality by [clicking this link](https://watch.screencastify.com/v/4JjdlM54sANvZl31IKIF).
 
 
 **Technologies**  
